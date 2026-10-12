@@ -1,0 +1,14 @@
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/bin/Debug/net10.0/MyFirstApp
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/bin/Debug/net10.0/MyFirstApp.deps.json
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/bin/Debug/net10.0/MyFirstApp.runtimeconfig.json
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/bin/Debug/net10.0/MyFirstApp.dll
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/bin/Debug/net10.0/MyFirstApp.pdb
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfo.cs
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.dll
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/refint/MyFirstApp.dll
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.pdb
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/MyFirstApp.genruntimeconfig.cache
+/Users/feodorsmirnov/Documents/CSharpProjects/MyFirstApp/obj/Debug/net10.0/ref/MyFirstApp.dll
